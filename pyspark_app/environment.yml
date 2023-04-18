@@ -1,0 +1,10 @@
+channels: 
+  - defaults
+dependencies: 
+  - jupyterlab
+  - pip
+  - numpy
+  - pandas
+  - pip:
+    - pyspark
+
