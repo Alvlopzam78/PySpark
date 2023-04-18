@@ -5,41 +5,23 @@
 </p>
 
 
-Dask es una biblioteca de código abierto diseñada para proporcionar paralelismo a la pila de Python existente. Dask proporciona integraciones con bibliotecas de Python como NumPy Arrays, Pandas DataFrames y scikit-learn para permitir la ejecución paralela en varios núcleos, procesadores y computadoras, sin tener que aprender nuevas bibliotecas o lenguajes.
+Spark es un framework de computación distribuido para ejecutar ingeniería de datos, ciencia de datos y machine learning en clusters particularmente cuando los datos son de gran tamaño. 
+
+PySpark es la librería que implementa todas las funciones de Spark en Python para facilitar su acceso y su uso. Además es flexible a otras librerías y lenguajes como Pandas y SQL.
+
+El objetivo de este proyecto es hacer una breve introducción a Spark y conocer las dunciones básicas que pueden utilizarse desde PySpark para procesar grandres volúmenes de datos. 
 
 ### Tabla de contenidos
-  - [Presentacion](#presentacion)
-  - [Codigo](#codigo)
-  - [Resources](#resources)
-  - [Instrucciones Evaluacion](#instrucciones-evaluacion)
+  - [Notebooks](#codigo)
+  - [Tarea](#Tarea)
 
+## Notebooks
+  -  [PySpark intro](pyspark_app/01_intro_pyspark.ipynb)
+  -  [DataFrames](pyspark_app/02_dataframes_pyspark.ipynb)
+  -  [Pandas](pyspark_app/03_pandas_pyspark.ipynb)
+  -  [Tarea](pyspark_app/tarea.ipynb)
 
-## Presentacion
-
-- Contenido de la [presentacion](Presentacion/Dask_Presentacion.pdf):
-  - ¿QUÉ ES DASK?
-  - ¿POR QUÉ DASK?
-  - Características
-  - Ventajasde usar Dask
-  - Integrados con Dask
-
-## Codigo
-- Notebooks:
-  -  [Dask Basics](Codigo/daskclass_app/basics.ipynb)
-  -  [Dask Data Structures](Codigo/daskclass_app/dask_data_structures.ipynb)
-  -  [Dask vs Pandas](Codigo/daskclass_app/dask_vs_pandas.ipynb)
-  -  [Dask Distribuido](Codigo/daskclass_app/dask_distribuido.ipynb)
-  -  [Evaluacion](Codigo/daskclass_app/evaluacion.ipynb)
-
-## Resources
-
-- Contenido de [resources](Resources/resources.txt):
-  - Recursos
-  - Videos
-
-## Instrucciones Evaluacion
-
-- NOTAR: ES JUSTO COMO LO HICIMOS EN EL EXAMEN DE SKALAS !!
+## Tarea
 
  1. Hacer CLICK en el siguiente vinculo: [evaluacion](https://classroom.github.com/a/5OLo4bUg).
  2. Buscar tu nombre en la lista despegable.
