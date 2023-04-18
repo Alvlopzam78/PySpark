@@ -23,7 +23,7 @@ El objetivo de este proyecto es hacer una breve introducción a Spark y conocer 
 
 ## Tarea
 
- 1. Hacer CLICK en el siguiente vinculo: [evaluacion](https://classroom.github.com/a/5OLo4bUg).
- 2. Buscar tu nombre en la lista despegable.
- 3. Trabaja en el archivo evaluacion y, al finalizar, dale commit.
+ 1. Sigan el siguiente link para acceder a la tarea: [evaluacion](https://classroom.github.com/a/LIuoGxVD).
+ 2. En la lista busquen su usuario de Github. NOTA: NO usen un usuario que no es el suyo.
+ 3. Resuelve el ejericio como más te acomode pero al final asegurate de guardarlo en el repositorio generado y darle commit.
 
