@@ -1,7 +1,7 @@
 # PySpark
 
 <p align="center">
-  <img width="800" height="400" src="/pyspark_app/Images/pysparklogo.jpg">
+  <img width="700" height="400" src="/pyspark_app/Images/pysparklogo.jpg">
 </p>
 
 
