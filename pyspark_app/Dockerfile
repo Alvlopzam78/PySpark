@@ -29,6 +29,8 @@ WORKDIR /pyspark_app
 COPY environment.yml /pyspark_app/environment.yml
 RUN conda env update --name base --file /pyspark_app/environment.yml --verbose
 ENTRYPOINT ["conda", "run","-n", "base", "jupyter", "lab","--ip=0.0.0.0","--allow-root", "--NotebookApp.token=''","--NotebookApp.password=''"]
+RUN apt-get update
+RUN apt-get install default-jdk -y
 
 
 
