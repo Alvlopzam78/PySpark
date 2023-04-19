@@ -11,7 +11,7 @@ PySpark es la librería que implementa todas las funciones de Spark en Python pa
 
 El objetivo de este proyecto es hacer una breve introducción a Spark y conocer las dunciones básicas que pueden utilizarse desde PySpark para procesar grandres volúmenes de datos. 
 
-### Tabla de contenidos
+### Índice
   - [Notebooks](#codigo)
   - [Tarea](#Tarea)
 
